@@ -1,0 +1,57 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1451,         49]
+NotebookOptionsPosition[      1035,         33]
+NotebookOutlinePosition[      1500,         51]
+CellTagsIndexPosition[      1457,         48]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+Hi Folks:
+
+I need a final version of the first poster submitted on Gradescope (one per \
+group but make sure the participants are clear on the poster) by Sunday \
+midnight.\
+\>", "Text",
+ CellChangeTimes->{{3.9828422860645247`*^9, 3.982842314711771*^9}, {
+  3.983189693156266*^9, 3.983189698073697*^9}, {3.9834445357233477`*^9, 
+  3.98344456188218*^9}, {3.9846547981253653`*^9, 
+  3.9846548152378616`*^9}},ExpressionUUID->"22e78f26-7a78-4a67-87dd-\
+789d325e199e"]
+},
+WindowToolbars->"EditBar",
+WindowSize->{858.5, 575.},
+WindowMargins->{{Automatic, -1339}, {Automatic, -216.5}},
+Magnification:>1.25 Inherited,
+FrontEndVersion->"12.3 for Microsoft Windows (64-bit) (July 9, 2021)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"ea540bc9-4049-434b-be26-41e71c584fae"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 473, 11, 130, "Text",ExpressionUUID->"22e78f26-7a78-4a67-87dd-789d325e199e"]
+}
+]
+*)
+
